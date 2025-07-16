@@ -62,7 +62,8 @@ This Power BI dashboard enables interactive and insightful visual analysis of dr
 
 ## 📸 Sample Dashboard Visuals
 
-> *(Add screenshots or embed a GIF of your Power BI dashboard here if applicable)*
+<img width="984" height="564" alt="image" src="https://github.com/user-attachments/assets/65eb7f94-7732-4be7-990b-9799330cfd2c" />
+
 
 ## 🚀 Getting Started
 
@@ -72,13 +73,3 @@ To explore the dashboard:
 2. Open the `.pbix` file with Power BI Desktop.
 3. Ensure data source paths are correctly configured (if applicable).
 4. Interact with filters, visuals, and insights on the dashboard.
-
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## 👥 Team
-
-Developed by **Group 6**  
-Faculty of Public Health / Business Intelligence Students  
-Thailand, 2025
